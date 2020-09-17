@@ -1,3 +1,4 @@
+# chage an int to a string
 class NumString:
     def __init__(self, value):
         self.value = str(value)
